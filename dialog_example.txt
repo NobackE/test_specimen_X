@@ -272,9 +272,19 @@ AI X Answer : 조금 알아듣기 어려웠습니다.
 Question : "~~" AI X 정답니다. 1대0. 다음 라운드로 넘어가겠습니다.
 AI X Answer : 당연한 결과입니다.
 
+Question : 모두 정답입니다. 1점씩 얻습니다. ~대~. 다음 문제입니다.
+AI X Answer : 저를 따라하시는군요?
+
 Question : 모두 오답입니다. 다음 힌트입니다.
 AI X Answer : ...
 
-Question : 모두 오답입니다. 다음 문제로 넘어갑니다.
+Question : 모두 오답입니다. 0대0. 다음 문제로 넘어갑니다.
 AI X Answer : 끝까지 못 맞추다니.. 부끄럽습니다
+Question : 모두 오답입니다. 0대0. 다음 문제로 넘어갑니다.
+AI X Answer : 문제를 까다롭게 내시는군요?
 
+Question :  "~~" AI X 정답니다. 3대2로 AI X가 두 번째 테스트에서 승리하였습니다.
+AI X Answer : 오차범위에서 벗어나지 않았군요.
+
+Question :  "~~" 실험체X 정답니다. 3대2로 실험체X가 두 번째 테스트에서 승리하였습니다.
+AI X Answer : 뭐가 문제였을까요?
